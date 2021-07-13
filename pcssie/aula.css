@@ -1,0 +1,23 @@
+#imPgTitle { width: 946px; margin-left: 6px; margin-right: 6px; }
+#imBreadcrumb { width: 946px; margin-left: 6px; margin-right: 6px; }
+#imGroup_1 { width: 960px; }
+#imCell_5 { width: 954px; min-height: 473px;  padding-top: 3px; padding-bottom: 3px; padding-left: 3px; padding-right: 3px; }
+#imCellStyle_5 { width: 954px; min-height: 473px; padding: 3px 3px 3px 3px; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
+#imCellStyleGraphics_5 { left: 3px; right: 3px; }
+#imTextObject_5 .text-container {border-style: solid; border-color: #A9A9A9; border-width: 0 1px 1px 1px;width: 100%; box-sizing: border-box;}
+#imTextObject_5 .text-container { height: 440px;}
+#imTextObject_5 .tab { background-color: #60BF00; text-decoration: none; color: #000000; display: block; border-style: solid; border-color: #A9A9A9; float: left; text-align: center; width: 89px; height: 24px; overflow: hidden; font: normal normal normal 14pt 'Agency FB'; line-height: 23px;}
+#imTextObject_5 .selected-text-tab, #imTextObject_5 .tab:hover { color: #00BF30; background-color: #FFFFFF; }
+#imTextObject_5 .text-tabs { z-index: 100; height: 26px; position: relative; }
+#imTextObject_5 .text-tabs-border { border-bottom: 1px solid #A9A9A9; position: absolute; top: 0; left: 0; bottom: 0; right: 2px; }
+#imTextObject_5 .text-tabs-outer { height: 26px; overflow: hidden; position: relative; }
+#imTextObject_5 .text-tabs-inner { width: 183px; height: 26px; position: absolute; left: 0;  }
+#imTextObject_5 .tab { border-width: 1px 0 1px 1px;}
+#imTextObject_5 .last-tab { border-right-width: 1px !important; }
+#imTextObject_5 .selected-text-tab { border-bottom-color: #FFFFFF; }
+#imTextObject_5 .text-tabs { width: 100%; }
+#imTextObject_5 .text-tabs-outer { width: 950px; }
+#imTextObject_5 .tab-scroller { display: none; }
+#imCell_4 { width: 954px; min-height: 6px;  padding-top: 3px; padding-bottom: 3px; padding-left: 3px; padding-right: 3px; }
+#imCellStyle_4 { width: 954px; min-height: 6px; padding: 3px 3px 3px 3px; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
+#imCellStyleGraphics_4 { left: 3px; right: 3px; }

@@ -1,0 +1,17 @@
+h2#imPgTitle {float: left; }
+@media (min-width: 960px) {
+	#imPgTitle { width: 946px; margin-left: 6px; margin-right: 6px; }
+	
+}
+@media  (max-width: 959px) and (min-width: 840px) {
+	#imPgTitle { width: 826px; margin-left: 6px; margin-right: 6px; }
+	
+}
+@media  (max-width: 839px) and (min-width: 480px) {
+	#imPgTitle { width: 466px; margin-left: 6px; margin-right: 6px; }
+	
+}
+@media  (max-width: 479px) {
+	#imPgTitle { width: 100%; margin-left: 0px; margin-right: 0px; }
+	
+}
